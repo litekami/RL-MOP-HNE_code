@@ -1,0 +1,14 @@
+*.gif
+*.asv
+*.eps
+*.png
+*.mat
+*.csv
+*.log
+*.aux
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdf
+*.zip

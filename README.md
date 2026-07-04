@@ -43,4 +43,3 @@ RL-MOP-HNE integrates three key components:
 
 ## Citation
 
-If you use this code, please cite the corresponding paper (DOI to be added).

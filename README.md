@@ -43,3 +43,6 @@ RL-MOP-HNE integrates three key components:
 
 ## Citation
 
+
+## DOI
+10.5281/zenodo.21194284
